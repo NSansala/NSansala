@@ -2,7 +2,6 @@ Hi there   👋
 I am a third year Data Science undergraduate at Sri Lanka Institute of Information Technology.
 <a href="https://www.linkedin.com/in/nethmini-sansala-7700081bb/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web development projects 
