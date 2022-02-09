@@ -1,6 +1,6 @@
 Hi there   👋
 I am a third year undergraduate from Sri Lanka Institute of Information Technology.
-<a href=""> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/in/nethmini-sansala-7700081bb/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 Here are some ideas to get you started:
