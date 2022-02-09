@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there   👋
+I am a third year undergraduate from Sri Lanka Institute of Information Technology.
+<a href=""> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
-<!--
-**NSansala/NSansala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development projects with VueJs and NodeJs
+- 🌱 I’m currently learning Vue and Aws (DynamoDb) and Also Firebase Authentication
+- 👯 I’m looking to collaborate on Vue js projects
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NSansala&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSansala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
