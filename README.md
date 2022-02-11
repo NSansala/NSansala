@@ -1,5 +1,5 @@
-<b>Hi there</b>   👋</br></br>
-<b>I am a passionate Full Stack Developer from Sri Lanka</br>
+<h3>Hi there</h3>   👋
+<h3 align="center">I am a passionate Full Stack Developer from Sri Lanka</h3>
 
 <b>About Me:</b>
 
@@ -15,16 +15,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSansala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<b>Connect with Me:</b></br>
-<a href="https://www.linkedin.com/in/nethmini-sansala-7700081bb/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsansala&label=Profile%20views&color=0e75b6&style=flat" alt="nsansala" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nethmini sansala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmini sansala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nethmini-sansala-7700081bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmini sansala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
