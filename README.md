@@ -1,4 +1,4 @@
-<h3>Hi there</h3>   
+<h3 align="center">Hi There</h3>   
 <h3 align="center">I am a passionate Full Stack Developer from Sri Lanka</h3>
 
 <h3>About Me:</h3>
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nethmini-sansala-7700081bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmini sansala" height="30" width="40" /></a>
-</p>
+</p></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NSansala&show_icons=true&theme=radical)
 
