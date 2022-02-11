@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React and Node.js 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-<b>Connect with Me:</b>
+<b>Connect with Me:</b></br>
 <a href="https://www.linkedin.com/in/nethmini-sansala-7700081bb/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
